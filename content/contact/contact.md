@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: jhc[at]ust.hk
+  email: ustsmartlab@gmail.com
   #phone: 888 888 88 88
   address:
     street: Room 3517, Lifts 25-26, HKUST, Clear Water Bay
