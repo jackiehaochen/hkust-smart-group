@@ -2,6 +2,7 @@
 # Display name
 title: Xiaoyu Zheng
 
+url: '/zxy' 
 # Username (this should match the folder name)
 authors:
   - Xiaoyu
@@ -68,5 +69,4 @@ social:
 user_groups:
   - PhD Student
 
-draft: true
 ---
