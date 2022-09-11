@@ -68,7 +68,5 @@ social:
 user_groups:
   - PhD Student
 
-_build:
-  render: always
-  list: never
+
 ---
