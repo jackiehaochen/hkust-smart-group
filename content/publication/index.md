@@ -62,11 +62,16 @@ featured: false
 #   Otherwise, set `slides: ""`.
 # slides:
 
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
 design:
   columns: '1'
 ---
-PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning
-<i>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. IEEE Transactions on Medical Imaging, 23 March 2022, article number 9740140.</i>
+<a href="https://repository.hkust.edu.hk/ir/Record/1783.1-117589">PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a>
+<i><small>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. IEEE Transactions on Medical Imaging, 23 March 2022, article number 9740140.<small></i>
 
 Three-Dimensional Multi-Task Deep Learning Model to Detect Glaucomatous Optic Neuropathy and Myopic Features From Optical Coherence Tomography Scans: A Retrospective Multi-Centre Study
 <i>Ran, An Ran; Wang, Xi; Chan, Poemen P.; Chan, Noel C.; Yip, Wilson; Young, Alvin L.; Wong, Mandy O.M.; Yung, Hon-Wah; Chang, Robert T.; Mannil, Suria S.; Tham, Yih Chung; Cheng, Ching-Yu; Chen, Hao; Li, Fei; Zhang, Xiulan; Heng, Pheng-Ann; Tham, Clement C.; Cheung, Carol Y.. Frontiers in Medicine, v. 9, June 2022, article number 860574.</i>
