@@ -28,10 +28,10 @@ content:
     latitude: '22.33706'
     longitude: '114.26339'
   #directions: Room 3517, Lifts 25-26
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  #office_hours:
+  #  - 'Monday 10:00 to 13:00'
+  #  - 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -42,13 +42,13 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #    captcha: false
 
 design:
   columns: '1'
