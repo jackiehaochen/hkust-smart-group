@@ -19,7 +19,7 @@ content:
   #phone: 888 888 88 88
   address:
     street: Room 3517, Lifts 25-26, HKUST, Clear Water Bay
-    city: Kowloon
+    city: New Territories
     region: Hong Kong
     #postcode: '999077'
     country: Hong Kong
@@ -54,5 +54,5 @@ design:
   columns: '1'
 ---
 
-Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred.
-If you are HKUST students and interested in doing research in the HKUST SMART Lab, please fill the form.
+  #  Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred.
+  #If you are HKUST students and interested in doing research in the HKUST SMART Lab, please send your CV/Resume to the following email.
