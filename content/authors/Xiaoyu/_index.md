@@ -2,7 +2,7 @@
 # Display name
 title: Xiaoyu Zheng
 
-url: '/zxy' 
+url: '/people' 
 # Username (this should match the folder name)
 authors:
   - Xiaoyu
