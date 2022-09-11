@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-<b>Description<b>
+<b>Description</b>
 
 The Smart Lab led by Dr. Hao Chen from The Hong Kong University of Science and Technology is
 recruiting PhD students, postdoctoral fellows, research assistants, interns, visiting scholars and
@@ -22,7 +22,7 @@ technologies in the interdisciplinary field of artificial intelligence and medic
 academic as well as industrial experience and provides sufficient resources for the research group
 members.
 
-<b>Who We Are<b>
+<b>Who We Are</b>
 
 The Hong Kong University of Science and Technology (HKUST) is a top and internationally
 renowned research university (ranked 34th in the world in the 2022QS World University
@@ -45,7 +45,7 @@ Physics, etc. He serves as the program committee of multiple international confe
 Area Chair of MICCAI 2021-2022, ISBI 2022, MIDL 2022 and SPC of AAAI 2022, etc. He also led the
 team winning 15+ medical grand challenges.
 
-<b>Recruitment Details<b>
+<b>Recruitment Details</b>
 
 PhD students are mainly for admission in the spring or fall of 2023, and a full scholarship (about
 HKD 18,500 per month) will be provided, and those who are particularly outstanding are
@@ -64,7 +64,7 @@ CVPR, TMI, MIA, AAAI, IJCAI, etc, are preferred.
 For undergraduate and master students, research positions such as intern and research
 assistant are also available. A minimum of 3 months is required (remote mode is also acceptable).
 
-<b>How to Apply<b>
+<b>How to Apply</b>
 
 Interested candidates are welcome to send their resumes, transcripts and other relevant
 materials to Prof. Chen's email: jhc[at]ust.hk. Please indicate the application position in the subject
