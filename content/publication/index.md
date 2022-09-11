@@ -71,6 +71,7 @@ design:
   columns: '0'
 ---
 <b>Journal</b>
+
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-117589">PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a></small><i><small><small>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu.IEEE Transactions on Medical Imaging, 23 March 2022, article number 9740140</small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-118448">Three-Dimensional Multi-Task Deep Learning Model to Detect Glaucomatous Optic Neuropathy and Myopic Features From Optical Coherence Tomography Scans: A Retrospective Multi-Centre Study</a></small><i><small><small>Ran, An Ran; Wang, Xi; Chan, Poemen P.; Chan, Noel C.; Yip, Wilson; Young, Alvin L.; Wong, Mandy O.M.; Yung, Hon-Wah; Chang, Robert T.; Mannil, Suria S.; Tham, Yih Chung; Cheng, Ching-Yu; Chen, Hao; Li, Fei; Zhang, Xiulan; Heng, Pheng-Ann; Tham, Clement C.; Cheung, Carol Y..Frontiers in Medicine, v. 9, June 2022, article number 860574</small></small></i>
@@ -170,6 +171,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108313">Standard Plane Localization in Fetal Ultrasound via Domain Transferred Deep Neural Networks</a></small><i><small><small>Chen, Hao; Ni, Dong; Qin, Jing; Li, Shengli; Yang, Xin; Wang, Tianfu; Heng, Pheng Ann.IEEE Journal of Biomedical and Health Informatics, v. 19, (5), September 2015, article number 7090943, p. 1627-1636</small></small></i>
 
 <b>Conference</b>
+
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-117688">Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a></small><i><small><small>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang.Proceedings - International Symposium on Biomedical Imaging, v. 2022-March, March 2022, article number 9761597</small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-117686">Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a></small><i><small><small>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann.Proceedings - International Symposium on Biomedical Imaging, v. 2022-March, March 2022, article number 9761652</small></small></i>
@@ -265,6 +267,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108329">Fetal Abdominal Standard Plane Localization Through Representation Learning with Knowledge Transfer</a></small><i><small><small>Chen, Hao; Ni, Dong; Yang, Xin; Li, Shengli; Heng, Pheng Ann.Lecture Notes in Computer Science, v. 8679, September 2014, p. 125-132</small></small></i>
 
 <b>Book</b>
+
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108123">Deep multilevel contextual networks for biomedical image segmentation</a></small><i><small><small>Chen, Hao; Dou, Qi; Qi, Xiaojuan; Cheng, Jie-Zhi; Heng, Pheng-Ann.Handbook of Medical Image Computing and Computer Assisted Intervention / Edited by S. Kevin Zhou, Daniel Rueckert and Gabor Fichtinger. Elsevier Inc., 2019, p. 231-247</small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108136">Unsupervised Domain Adaptation of ConvNets for Medical Image Segmentation via Adversarial Learning</a></small><i><small><small>Dou, Qi; Chen, Cheng; Ouyang, Cheng; Chen, Hao; Heng, Pheng Ann.Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics / Edited by: Le Lu, Xiaosong Wang, Gustavo Carneiro, Lin Yang. Springer, Cham, 2019, p. 93-115</small></small></i>
