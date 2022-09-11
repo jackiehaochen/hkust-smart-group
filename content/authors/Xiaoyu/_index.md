@@ -2,6 +2,8 @@
 # Display name
 title: Xiaoyu Zheng
 
+active: false
+
 # Username (this should match the folder name)
 authors:
   - Xiaoyu

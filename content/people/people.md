@@ -6,8 +6,6 @@ widget: people
 # This file represents a page section.
 headless: true
 
-show_related: false
-
 # Order that this section appears on the page.
 weight: 68
 
