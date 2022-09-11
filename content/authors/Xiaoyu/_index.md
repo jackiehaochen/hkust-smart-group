@@ -4,6 +4,8 @@ title: Xiaoyu Zheng
 
 active: false
 
+headless: false
+
 # Username (this should match the folder name)
 authors:
   - Xiaoyu
