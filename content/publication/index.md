@@ -1,6 +1,6 @@
 
 ---
-#title: 'PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning'
+title: Publications
 #authors:
 #  - Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu
 #date: '2013-07-01T00:00:00Z'
