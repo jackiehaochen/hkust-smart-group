@@ -1,6 +1,6 @@
 
 ---
-#title: 'PDBLss: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning'
+#title: 'PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning'
 #authors:
 #  - Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu
 #date: '2013-07-01T00:00:00Z'
@@ -61,6 +61,9 @@ featured: false
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides:
+
+design:
+  columns: '1'
 ---
 PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning
 <i>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. IEEE Transactions on Medical Imaging, 23 March 2022, article number 9740140.</i>
