@@ -8,7 +8,7 @@ authors:
   - Xiaoyu
 
 aliases:
-  - /people
+  - /people/
   
 # Is this the primary user of the site?
 superuser: false
