@@ -6,9 +6,6 @@ title: Xiaoyu Zheng
 # Username (this should match the folder name)
 authors:
   - Xiaoyu
-
-aliases:
-  - /people/
   
 # Is this the primary user of the site?
 superuser: false
