@@ -53,5 +53,5 @@ content:
 design:
   columns: '1'
 ---
-Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred.
-If you are HKUST students and interested in doing research in the HKUST SMART Lab, please send your CV/Resume/Transcripts to the following email.
+Positions (PhDs/RAs/Postdocs/Interns) are available and strong self-motivated candidate is preferred. Interested candidates are welcome to send their resumes, transcripts and other relevant
+materials to the following email. Please indicate the application position in the subject of email.
