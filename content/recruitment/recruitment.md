@@ -1,7 +1,7 @@
 ---
 # An instance of the Recruitment widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: recruitment
+widget: blank
 
 # This file represents a page section.
 headless: true
