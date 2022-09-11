@@ -27,9 +27,9 @@
 #  - Source Themes
 featured: false
 
-links:
-  - name: Link
-    url: https://repository.hkust.edu.hk/ir/Record/1783.1-117589
+#links:
+#  - name: Link
+#    url: https://repository.hkust.edu.hk/ir/Record/1783.1-117589
 #url_pdf: https://repository.hkust.edu.hk/ir/Record/1783.1-117589
 #url_code: '#'
 #url_dataset: '#'
