@@ -1,11 +1,11 @@
----
-title: Publications
+#---
+#title: Publications
 
 # Listing view
-view: citation
+#view: citation
 
 # Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
----
+#banner:
+#  caption: ''
+#  image: ''
+#---
