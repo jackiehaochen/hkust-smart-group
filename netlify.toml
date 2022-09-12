@@ -21,6 +21,11 @@
     debug = true
 
  [[redirects]]
+  from = "/author/yuyan-ruan/"
+  to = "https://github.com/RYY0722"
+  force = true
+
+ [[redirects]]
   from = "/author/xiaoyu-zheng/"
   to = "https://github.com/xiaoyu-z/"
   force = true
@@ -31,11 +36,7 @@
   force = true
 
  [[redirects]]
-  from = "/author/yuyan-ruan/"
-  to = "https://github.com/RYY0722"
-  force = true
-
- [[redirects]]
   from = "/author/yingxue-xu/"
   to = "https://innse.github.io/"
   force = true
+
