@@ -22,20 +22,16 @@
 
  [[redirects]]
   from = "/author/xiaoyu-zheng/"
-  to = "https://www.linkedin.com/in/xiaoyuzlovesds/"
+  to = "https://github.com/xiaoyu-z/"
   force = true
 
  [[redirects]]
   from = "/author/yu-cai/"
   to = "https://caiyu6666.github.io/"
-  status = 200
   force = true
-  headers = {X-From = "Netlify"}
 
  [[redirects]]
   from = "/author/yuyan-ruan/"
   to = "https://wang-lab.hkust.edu.hk/people/cv_html/yuyan_cv.html"
-  status = 200
   force = true
-  headers = {X-From = "Netlify"}
 
