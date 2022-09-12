@@ -46,7 +46,7 @@ social:
     icon_pack: fas
     link: https://innse.github.io/
   #- icon: linkedin
-  #  icon_pack: fab
+  #    icon_pack: fab
   #  link: https://www.linkedin.com/in/yu-cai-130983208/
   #- icon: google-scholar
   #  icon_pack: ai
