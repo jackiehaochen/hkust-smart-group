@@ -40,3 +40,7 @@
   to = "https://innse.github.io/"
   force = true
 
+ [[redirects]]
+  from = "/author/haoxuan-che/"
+  to = "https://www.linkedin.com/in/chehx/"
+  force = true
