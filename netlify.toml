@@ -35,3 +35,7 @@
   to = "https://github.com/RYY0722"
   force = true
 
+ [[redirects]]
+  from = "/author/yingxue-xu/"
+  to = "https://innse.github.io/"
+  force = true
