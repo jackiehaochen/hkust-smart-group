@@ -21,8 +21,9 @@
     debug = true
 
  [[redirects]]
-  from = "/author/*"
+  from = "/author/*/"
   to = "/people/"
   status = 200
-  force = true
+  force = false
+  condition =
   headers = {X-From = "Netlify"}

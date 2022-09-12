@@ -12,8 +12,6 @@ weight: 68
 title: Meet the Team
 subtitle:
 
-aliases:
-    - /author/yu-cai/
 
 content:
   # Choose which groups/teams of users to display.
