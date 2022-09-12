@@ -7,6 +7,8 @@ title: Xiaoyu Zheng
 authors:
   - Xiaoyu
   
+url: https://github.com/xiaoyu-z
+  
 # Is this the primary user of the site?
 superuser: false
 
