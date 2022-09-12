@@ -21,13 +21,13 @@
     debug = true
 
  [[redirects]]
-  from = "/author/yuyan-ruan1/"
-  to = "https://github.com/RYY0722"
+  from = "/author/yuyan-ruan/"
+  to = "https://wang-lab.hkust.edu.hk/people/cv_html/yuyan_cv.html"
   force = true
 
  [[redirects]]
   from = "/author/xiaoyu-zheng/"
-  to = "https://github.com/xiaoyu-z/"
+  to = "http://linkedin.com/in/xiaoyuzlovesds/"
   force = true
 
  [[redirects]]
