@@ -22,12 +22,12 @@
 
  [[redirects]]
   from = "/author/yuyan-ruan/"
-  to = "https://wang-lab.hkust.edu.hk/people/cv_html/yuyan_cv.html"
+  to = "https://github.com"
   force = true
 
  [[redirects]]
   from = "/author/xiaoyu-zheng/"
-  to = "http://linkedin.com/in/xiaoyuzlovesds/"
+  to = "https://linkedin.com/in/xiaoyuzlovesds/"
   force = true
 
  [[redirects]]
