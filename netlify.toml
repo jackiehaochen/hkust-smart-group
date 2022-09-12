@@ -21,7 +21,7 @@
     debug = true
 
  [[redirects]]
-  from = "/author/yuyan-ruan/"
+  from = "/author/yuyan-ruan1/"
   to = "https://github.com/RYY0722"
   force = true
 
