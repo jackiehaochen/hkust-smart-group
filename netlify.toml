@@ -21,12 +21,12 @@
     debug = true
 
  [[redirects]]
-  from = "/author/yuyan-ruan/"
-  to = "https://github.com"
+  from = "/author/yu-yan-ruan/"
+  to = "https://wang-lab.hkust.edu.hk/people/cv_html/yuyan_cv.html"
   force = true
 
  [[redirects]]
-  from = "/author/xiaoyu-zheng/"
+  from = "/author/xiao-yu-zheng/"
   to = "https://linkedin.com/in/xiaoyuzlovesds/"
   force = true
 
@@ -36,11 +36,11 @@
   force = true
 
  [[redirects]]
-  from = "/author/yingxue-xu/"
+  from = "/author/ying-xue-xu/"
   to = "https://innse.github.io/"
   force = true
 
  [[redirects]]
-  from = "/author/haoxuan-che/"
+  from = "/author/hao-xuan-che/"
   to = "https://www.linkedin.com/in/chehx/"
   force = true

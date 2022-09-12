@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haoxuan Che
+title: Hao-xuan Che
 
 # Username (this should match the folder name)
 authors:
