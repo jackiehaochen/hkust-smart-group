@@ -21,7 +21,7 @@
     debug = true
 
  [[redirects]]
-  from = "/anthor/*"
+  from = "/author/*"
   to = "/people/"
   status = 200
   force = true
