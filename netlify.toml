@@ -23,9 +23,7 @@
  [[redirects]]
   from = "/author/xiaoyu-zheng/"
   to = "https://www.linkedin.com/in/xiaoyuzlovesds/"
-  status = 200
   force = true
-  headers = {X-From = "Netlify"}
 
  [[redirects]]
   from = "/author/yu-cai/"
