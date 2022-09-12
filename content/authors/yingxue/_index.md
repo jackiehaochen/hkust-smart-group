@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yu Cai
+title: Yingxue Xu
 
 # Username (this should match the folder name)
 authors:
-  - Yucai
+  - yingxue
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,16 +44,16 @@ role: PhD Student
 social:
   - icon: paperclip
     icon_pack: fas
-    link: https://caiyu6666.github.io/
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/yu-cai-130983208/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=kR5LuzgAAAAJ&hl=zh-CN
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/caiyu6666
+    link: https://innse.github.io/
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/in/yu-cai-130983208/
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.com/citations?user=kR5LuzgAAAAJ&hl=zh-CN
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/caiyu6666
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
