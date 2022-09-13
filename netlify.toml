@@ -59,3 +59,8 @@
   from = "/author/hai-bo-jin/"
   to = "http://jhb86253817.github.io/"
   force = true
+
+ [[redirects]]
+  from = "/author/zheng-rui-guo/"
+  to = "https://github.com/GzrDavidRicardo"
+  force = true
