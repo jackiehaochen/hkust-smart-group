@@ -64,3 +64,8 @@
   from = "/author/zheng-rui-guo/"
   to = "https://github.com/GzrDavidRicardo"
   force = true
+
+ [[redirects]]
+  from = "/author/cheng-jin/"
+  to = "https://chengjin.netlify.app/"
+  force = true
