@@ -54,3 +54,8 @@
   from = "/author/an-dong-tan/"
   to = "https://www.linkedin.com/in/andong-tan-785661122/"
   force = true
+
+ [[redirects]]
+  from = "/author/hai-bo-jin/"
+  to = "http://jhb86253817.github.io/"
+  force = true
