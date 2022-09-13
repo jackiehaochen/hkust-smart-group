@@ -49,3 +49,8 @@
   from = "/author/jia-xin-zhuang/"
   to = "https://jiaxinzhuang.github.io/"
   force = true
+
+ [[redirects]]
+  from = "/author/an-dong-tan/"
+  to = "https://www.linkedin.com/in/andong-tan-785661122/"
+  force = true
