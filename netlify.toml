@@ -80,3 +80,8 @@
   to = "https://github.com/birkhoffkiki"
   force = true
 
+ [[redirects]]
+  from = "/author/yi-lin/"
+  to = "https://ianyilin.github.io/"
+  force = true
+
