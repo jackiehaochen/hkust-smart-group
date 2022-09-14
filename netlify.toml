@@ -89,3 +89,9 @@
   from = "/author/xiao-qi-ma/"
   to = "https://github.com/chronican"
   force = true
+
+ [[redirects]]
+  from = "/author/feng-tao-zhou/"
+  to = "https://www.cvzzz.com/"
+  force = true
+
