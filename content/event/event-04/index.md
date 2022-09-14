@@ -1,6 +1,5 @@
 ---
 title: Invited Talk 'Deep Learning for Large-scale Computational Pathology'
-draft: true
 event: Hong Kong Pathology Forum
 #event_url: https://example.org
 
@@ -29,6 +28,7 @@ date: '2021-02-01'
 authors: []
 tags: []
 
+
 # Is this a featured talk? (true/false)
 featured: false
 
@@ -43,6 +43,7 @@ url_video: ''
 
 reading_time: false
 share: false
+draft: true
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
