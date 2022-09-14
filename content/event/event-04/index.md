@@ -1,7 +1,7 @@
 ---
-title: Invited Talk 'Artificial Intelligence in Medical Imaging and Analysis - Progress Promises and Pitfalls'
+title: Invited Talk 'Deep Learning for Large-scale Computational Pathology'
 
-event: HKSTP X HKMA CME Lecture
+event: Hong Kong Pathology Forum
 #event_url: https://example.org
 
 #location: Wowchemy HQ
@@ -12,12 +12,12 @@ event: HKSTP X HKMA CME Lecture
 #  postcode: '94305'
 #  country: United States
 
-summary: HKSTP X HKMA CME Lecture
+summary: Hong Kong Pathology Forum
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #  End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-12-01'
+date: '2021-2-01'
 #date_end: '2022-10-01T15:00:00Z'
 #all_day: false
 
