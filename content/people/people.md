@@ -20,7 +20,7 @@ content:
     - Principal Investigator
     - PhD Student
     - PhD Candidate
-    - Postdoc
+    - Postdoctoral Fellow
     - Graduate Student
     - Visitors
     - Alumni

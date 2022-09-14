@@ -69,3 +69,9 @@
   from = "/author/cheng-jin/"
   to = "https://chengjin.netlify.app/"
   force = true
+
+ [[redirects]]
+  from = "/author/lu-yang-jin/"
+  to = "https://llyxc.github.io/"
+  force = true
+
