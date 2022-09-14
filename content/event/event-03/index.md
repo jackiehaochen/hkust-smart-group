@@ -1,5 +1,5 @@
 ---
-title: Invited Talk 'Artificial Intelligence in Medical Imaging and Analysis: Progress, Promises and Pitfalls'
+title: Invited Talk 'Artificial Intelligence in Medical Imaging and Analysis - Progress Promises and Pitfalls'
 
 event: HKSTP X HKMA CME Lecture
 #event_url: https://example.org
