@@ -85,3 +85,7 @@
   to = "https://ianyilin.github.io/"
   force = true
 
+ [[redirects]]
+  from = "/author/xiao-qi-ma/"
+  to = "https://github.com/chronican"
+  force = true
