@@ -31,7 +31,7 @@ content:
     #    color: '#555'
     #    brightness: 0.7
     #    media: contact.jpg
-    - title: World-Class Medical Image Analysis & AI Lab
+    - title: World-Class AI & Medical Image Analysis Lab
       content: 'AI for health care'
       align: right
       background:
