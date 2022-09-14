@@ -21,7 +21,7 @@ summary: Hong Kong Pathology Forum
 date: '2021-02-01'
 #date_end: '2022-10-01T15:00:00Z'
 #all_day: false
-show_date: false
+#show_date: false
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
