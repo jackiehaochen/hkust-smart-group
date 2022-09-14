@@ -1,7 +1,7 @@
 ---
 widget: slider
 weight: 1
-active: false
+active: true
 headless: true
 
 design:
@@ -12,7 +12,7 @@ design:
   loop: false
   # Duration of transition between slides (in ms)
   interval: 2000
-draft: true
+
 content:
   slides:
     - title: 👋 Welcome to the HKUST SMART Lab
