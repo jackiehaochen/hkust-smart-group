@@ -15,14 +15,14 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to the HKUST Smart Lab
       content: Take a look at what we're working on...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: hkust.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
@@ -31,8 +31,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: World-Class Medical Image Analysis & AI Lab
+      content: 'AI for health care'
       align: right
       background:
         position: center
