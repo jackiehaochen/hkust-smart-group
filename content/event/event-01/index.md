@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: Invited talk: Label-Efficient Deep Learning for Medical Image Analysis
 
-event: Wowchemy Conference
+event: International School on Deep Learning, Sweden
 #event_url: https://example.org
 
 #location: Wowchemy HQ
@@ -17,8 +17,8 @@ event: Wowchemy Conference
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2030-06-01T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
+date: '2022-10-01'
+#date_end: '2022-10-01T15:00:00Z'
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -52,12 +52,13 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+#Slides can be added in a few ways:
+
+#- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+#Further event details, including page elements such as image galleries, can be added to the body of this page.
+
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
