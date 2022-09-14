@@ -23,14 +23,14 @@ content:
         color: '#666'
         brightness: 0.7
         media: hkust.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
+    #- title: Lunch & Learn ☕️
+    #  content: 'Share your knowledge with the group and explore exciting new topics together!'
+    #  align: left
+    #  background:
+    #    position: center
+    #    color: '#555'
+    #    brightness: 0.7
+    #    media: contact.jpg
     - title: World-Class Medical Image Analysis & AI Lab
       content: 'AI for health care'
       align: right
