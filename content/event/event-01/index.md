@@ -17,7 +17,7 @@ summary: International School on Deep Learning, Sweden
 
 # Talk start and end times.
 #  End time can optionally be hidden by prefixing the line with `#`.
-date: ''
+date: '1979-05-27T07:32:00Z'
 #date_end: '2022-10-01T15:00:00Z'
 #all_day: false
 
