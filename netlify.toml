@@ -75,3 +75,8 @@
   to = "https://llyxc.github.io/"
   force = true
 
+ [[redirects]]
+  from = "/author/jia-bo-ma/"
+  to = "https://github.com/birkhoffkiki"
+  force = true
+
