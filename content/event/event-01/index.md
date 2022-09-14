@@ -1,5 +1,5 @@
 ---
-title: Invited talk: Label-Efficient Deep Learning for Medical Image Analysis
+title: Invited talk Label-Efficient Deep Learning for Medical Image Analysis
 
 event: International School on Deep Learning, Sweden
 #event_url: https://example.org
