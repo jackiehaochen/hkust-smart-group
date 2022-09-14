@@ -1,6 +1,6 @@
 ---
 title: Invited Talk 'Deep Learning for Large-scale Computational Pathology'
-
+draft: true
 event: Hong Kong Pathology Forum
 #event_url: https://example.org
 
