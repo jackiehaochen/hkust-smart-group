@@ -18,8 +18,8 @@ summary: International School on Deep Learning, Sweden
 # Talk start and end times.
 #  End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-10-01T00:00:00Z'
-#date_end: '2022-10-01T15:00:00Z'
-all_day: false
+date_end: '2022-10-01T15:00:00Z'
+all_day: true
 
 
 # Schedule page publish date (NOT talk date).
