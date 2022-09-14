@@ -5,7 +5,7 @@ event: HKSTP X HKMA CME Lecture
 #event_url: https://example.org
 
 #location: Wowchemy HQ
-#address:
+# address:
 #  street: 450 Serra Mall
 #  city: Stanford
 #  region: CA
@@ -17,7 +17,7 @@ summary: HKSTP X HKMA CME Lecture
 
 # Talk start and end times.
 #  End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-12-01'
+date: '2022-01-01'
 #date_end: '2022-10-01T15:00:00Z'
 #all_day: false
 
