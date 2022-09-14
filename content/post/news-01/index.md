@@ -1,4 +1,4 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Prof. Hao Chen was Honored to serve as Associate Editor of IEEE JBHI. 
+date: 2022-08
 ---
