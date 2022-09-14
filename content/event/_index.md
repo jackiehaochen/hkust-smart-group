@@ -2,7 +2,9 @@
 title: Recent & Upcoming Events
 
 # Listing view
-view: card
+view: compact
+
+show_date: false
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

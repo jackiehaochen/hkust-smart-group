@@ -21,7 +21,7 @@ date: '2021-12-01'
 #date_end: '2022-10-01T15:00:00Z'
 #all_day: false
 
-
+show_date: false
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
 
