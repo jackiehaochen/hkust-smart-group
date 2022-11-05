@@ -23,14 +23,14 @@ content:
         color: '#666'
         brightness: 0.7
         media: hkust.jpg
-    #- title: Lunch & Learn ☕️
-    #  content: 'Share your knowledge with the group and explore exciting new topics together!'
-    #  align: left
-    #  background:
-    #    position: center
-    #    color: '#555'
-    #    brightness: 0.7
-    #    media: contact.jpg
+    - title:  Human-centered Medical Image Analysis AI for Healthcare
+      content: AI in Breast Cancer
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.jpg
     - title: Trustworthy AI for healthcare
       content: AI in pathology
       align: right
