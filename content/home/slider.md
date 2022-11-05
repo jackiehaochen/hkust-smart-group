@@ -31,8 +31,8 @@ content:
     #    color: '#555'
     #    brightness: 0.7
     #    media: contact.jpg
-    - title: World-Class AI & Medical Image Analysis Lab
-      content: 'AI for health care'
+    - title: Trustworthy AI for healthcare
+      content: AI in pathology
       align: right
       background:
         position: center
