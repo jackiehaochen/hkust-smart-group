@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the HKUST SMART Lab
-      content: Take a look at what we're working on...
+    - title: Welcome to the HKUST SMART Lab
+      # content: Take a look at what we're working on...
       align: center
       background:
         position: right
