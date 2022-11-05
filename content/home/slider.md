@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome to SMART Lab
-      # content: Take a look at what we're working on...
+      content: World-Class AI & Medical Image Analysis Lab from HKUST
       align: center
       background:
         position: right
