@@ -46,7 +46,7 @@ role: Principal Investigator
 social:
   - icon: paperclip
     icon_pack: fas
-    link: https://cse.hkust.edu.hk/~jhc/
+    link: ./hao_chen.html
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/in/luyang-luo/
