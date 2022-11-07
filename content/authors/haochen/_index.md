@@ -68,7 +68,7 @@ user_groups:
   - Principal Investigator
 
 ---
-$\color{#FF0000}{*NEW*}$ Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred ([details](https://hkustsmartlab.netlify.app/recruitment/)). If you are HKUST students and interested in doing research with me, please send me an email.
+<p style="color:Tomato;">*New*</p> Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred ([details](https://hkustsmartlab.netlify.app/recruitment/)). If you are HKUST students and interested in doing research with me, please send me an email.
 
 # News
 10/22 Ranked Top 2% of Scientists on [Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3).        
@@ -115,6 +115,9 @@ Trustworthy AI, Medical Image Analysis, Deep Learning, Computer Vision, Computat
 ◎2019-3 AI in OCT: What is 3D Deep Learning? Asia-Pacific Academy of Ophthalmology Congress. Bangkok, Thailand.      
 ◎2016-07 Deep Learning for Histopathology Image Analysis, Medical Vision Workshop in CVPR 2016 (Las Vegas).      
 ◎2016-01 Deep Learning in Medical Imaging (National Institute of Health, Washington).      
+
+## Publications
+Full publication list is available in [here](https://hkustsmartlab.netlify.app/publication/). You may refer to the [Google Scholar](https://scholar.google.com.hk/citations?user=Z_t5DjwAAAAJ) page.
 
 ## Professional Service
 ### Editorial Board Member
