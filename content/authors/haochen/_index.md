@@ -37,9 +37,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#   - icon: paperclip
-#     icon_pack: fas
-#     link: https://cse.hkust.edu.hk/~jhc/
+   - icon: paperclip
+     icon_pack: fas
+     link: https://hkustsmartlab.netlify.app/author/hao-chen/
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/in/luyang-luo/
