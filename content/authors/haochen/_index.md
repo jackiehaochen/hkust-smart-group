@@ -16,7 +16,7 @@ role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Assistant Professor, Department of Computer Science and Engineering (Home), Department of Chemical and Biological Engineering
+  - name: Assistant Professor
     #url: 'https://hkust.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts) 
