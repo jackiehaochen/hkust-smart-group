@@ -16,21 +16,13 @@ design:
 content:
   slides:
     - title: Welcome to SMART Lab
-      content: World-Class AI & Medical Image Analysis Lab from HKUST
+      # content: World-Class AI & Medical Image Analysis Lab from HKUST
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: hkust.jpg
-    - title:  Human-centered Medical Image Analysis AI for Healthcare
-      content: AI in Breast Cancer
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
     - title: Trustworthy AI for healthcare
       content: AI in pathology
       align: right
@@ -44,4 +36,12 @@ content:
         icon_pack: fas
         text: Join Us
         url: ../contact/
+    - title:  Patient-centered Medical Image Analysis
+      content: AI in Breast Cancer Analysis
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.jpg
 ---
