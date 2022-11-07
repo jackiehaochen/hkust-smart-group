@@ -16,7 +16,7 @@ role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: The Hong Kong University of Science and Technology
+  - name: Room 3517 (via lifts 25-26), Department of Computer Science and Engineering (Home), Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
     url: 'https://hkust.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts) 
@@ -68,6 +68,17 @@ user_groups:
   - Principal Investigator
 
 ---
+
+*NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred (details).
+If you are HKUST students and interested in doing research with me, please send me an email.
+
+# News
+10/22 Ranked Top 2% of Scientists on [Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3).        
+08/22 Honored to serve as Associate Editor of IEEE JBHI.         
+08/22 Elevation to IEEE Senior Member.         
+07/22 Two papers were accepted in Radiology AI.           
+05/22 Six papers were accepted in MICCAI 2022 (five are early accept).          
+
 
 ## Biography
 
@@ -169,3 +180,8 @@ AAAI, IJCAI, MICCAI, NeuIPS, CVPR, IROS, IPCAI, ISBI, MIDL, MICCAI-COMPAY, MICCA
 ◎2015/10 Our team won the **1st** place in [2015 MICCAI IVD Localization Challenge](http://ijoint.istb.unibe.ch/challenge/index.html).               
 ◎2015/10 2012 ISBI Challenge: Segmentation of neuronal structures in Electron Microscopy (EM) stacks. Our team (CUMedVision) placed **1st** on the neuronal structure segmentation out of 38 teams. [[Leader board](http://brainiac2.mit.edu/isbi_challenge/leaders-board)]         
 ◎2014/10 MITOS-ATYPIA-14 challenge, 2014. Our team won the **1st** place among the 17 teams on mitosis detection.            
+
+## Teaching
+COMP4421 Image Processing, Fall 2022        
+COMP6211H Deep Learning in Medical Image Analysis, Spring 2022          
+COMP4421 Image Processing, Fall 2021        
