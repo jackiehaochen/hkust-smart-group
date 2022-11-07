@@ -55,3 +55,6 @@ design:
 ---
 Positions (PhDs/RAs/Postdocs/Interns) are available and strong self-motivated candidate is preferred. Interested candidates are welcome to send their resumes, transcripts and other relevant
 materials to the following email. Please indicate the application position in the subject of email.
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JuCEMpNzqyVTLQiNouHGkgVkDSUdnRYlmMt7amzdbLw"></script>
+
