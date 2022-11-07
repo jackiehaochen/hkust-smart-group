@@ -116,7 +116,7 @@ Trustworthy AI, Medical Image Analysis, Deep Learning, Computer Vision, Computat
 Full publication list is available in [here](https://hkustsmartlab.netlify.app/publication/). You may refer to the [Google Scholar](https://scholar.google.com.hk/citations?user=Z_t5DjwAAAAJ) page.
 
 ## Professional Service
-### Editorial Board Member
+#### Editorial Board Member
 Associate Editor of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)        
 Associate Editor of IEEE Journal of Biomedical and Health Informatics (JBHI)       
 Associate Editor of Medical Physics       
@@ -124,16 +124,16 @@ Associate Editor of Computerized Medical Imaging and Graphics (CMIG)
 Associate Editor of Neurocomputing       
 Associate Editor of Frontiers in Artificial Intelligence       
 Associate Editor of Frontiers in Big Data       
-### Program Committee
+#### Program Committee
 Area Chair of MICCAI 2022, MICCAI 2021, MIDL 2022, IEEE ISBI 2022       
 Senior PC of AAAI 2022, PC of AAAI 2021, IJCAI-ECAI 2022       
 Organizing Committee of Diabetic Retinopathy Analysis Challenge, MICCAI 2022       
 Technical Commitee Member of MIDL (2022-2024)       
 Vice President of Steering Committee of the HKSTP Startups Alumni Association (2022-2024)       
 Hong Kong BioMedical Technology Development Advisory Panel Member (2022- 2024)       
-### Membership
+#### Membership
 IEEE Senior Member, MICCAI Member, AAAI Member        
-### Regular Journal Reviewer
+#### Regular Journal Reviewer
 Nature Methods       
 IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI)       
 Nature Communications       
@@ -157,7 +157,7 @@ Machine Learning for Biomedical Imaging
 Patter Recognition       
 Expert Systems with Applications       
 International Journal of Computer Assisted Radiology and Surgery (IJCARS)       
-### Regular Conference Reviewer
+#### Regular Conference Reviewer
 AAAI, IJCAI, MICCAI, NeuIPS, CVPR, IROS, IPCAI, ISBI, MIDL, MICCAI-COMPAY, MICCAI-AE-CAI       
 
 ## Selected Challenges
