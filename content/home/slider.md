@@ -43,7 +43,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: mri.jpg
+        media: mri.png
       link:
         icon: graduation-cap
         icon_pack: fas
