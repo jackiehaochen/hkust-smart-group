@@ -17,6 +17,8 @@ role: Principal Investigator
 # Organizations/Affiliations
 organizations:
   - name: Assistant Professor
+  - name: Department of Computer Science and Engineering (Home)
+  - name: Department of Chemical and Biological Engineering
     #url: 'https://hkust.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts) 
@@ -68,7 +70,7 @@ user_groups:
   - Principal Investigator
 
 ---
-<p style="color:Tomato;">*New*</p> Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred ([details](https://hkustsmartlab.netlify.app/recruitment/)). If you are HKUST students and interested in doing research with me, please send me an email.
+<p style="color:Tomato;">*New* Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred ([details](https://hkustsmartlab.netlify.app/recruitment/)). If you are HKUST students and interested in doing research with me, please send me an email. </p>
 
 # News
 10/22 Ranked Top 2% of Scientists on [Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3).        
