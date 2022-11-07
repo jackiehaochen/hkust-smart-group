@@ -107,4 +107,65 @@ Trustworthy AI, Medical Image Analysis, Deep Learning, Computer Vision, Computat
 ◎2016-07 Deep Learning for Histopathology Image Analysis, Medical Vision Workshop in CVPR 2016 (Las Vegas).      
 ◎2016-01 Deep Learning in Medical Imaging (National Institute of Health, Washington).      
 
+## Professional Service
+### Editorial Board Member
+Associate Editor of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)        
+Associate Editor of IEEE Journal of Biomedical and Health Informatics (JBHI)       
+Associate Editor of Medical Physics       
+Associate Editor of Computerized Medical Imaging and Graphics (CMIG)       
+Associate Editor of Neurocomputing       
+Associate Editor of Frontiers in Artificial Intelligence       
+Associate Editor of Frontiers in Big Data       
+### Program Committee
+Area Chair of MICCAI 2022, MICCAI 2021, MIDL 2022, IEEE ISBI 2022       
+Senior PC of AAAI 2022, PC of AAAI 2021, IJCAI-ECAI 2022       
+Organizing Committee of Diabetic Retinopathy Analysis Challenge, MICCAI 2022       
+Technical Commitee Member of MIDL (2022-2024)       
+Vice President of Steering Committee of the HKSTP Startups Alumni Association (2022-2024)       
+Hong Kong BioMedical Technology Development Advisory Panel Member (2022- 2024)       
+### Membership
+IEEE Senior Member, MICCAI Member, AAAI Member        
+### Regular Journal Reviewer
+Nature Methods       
+IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI)       
+Nature Communications       
+Medical Image Analysis (MIA)       
+IEEE Transactions on Medical Imaging (TMI)       
+npj Digital Medicine       
+Journal of Clinical Investigation       
+NeuroImage       
+IEEE Transactions on Cybernetics       
+IEEE Transactions on Image Processing (TIP)       
+IEEE Transactions on Biomedical Engineering (TBME)       
+IEEE Reviews in Biomedical Engineering       
+EBioMedicine       
+Engineering       
+JAMA Network Open       
+IEEE Computational Intelligence Magazine       
+IEEE Journal of Biomedical and Health Informatics       
+Artificial Intelligence In Medicine       
+Knowledge-Based Systems       
+Machine Learning for Biomedical Imaging       
+Patter Recognition       
+Expert Systems with Applications       
+International Journal of Computer Assisted Radiology and Surgery (IJCARS)       
+### Regular Conference Reviewer
+AAAI, IJCAI, MICCAI, NeuIPS, CVPR, IROS, IPCAI, ISBI, MIDL, MICCAI-COMPAY, MICCAI-AE-CAI       
 
+## Selected Challenges
+◎2021/12 Winner in 2021 Tencent AI Medical Innovation System (AIMIS) Challenge.       
+◎2020/09 Top3 in MICCAI 2020 RibFrac Challenge: Rib Fracture Detection and Classification.       
+◎2018/11 Top5 in [Kaggle RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/leaderboard).        
+◎2018/09 Winner on the [MICCAI 2018 Multi-organ Nuclei Segmentation Challenge](https://monuseg.grand-challenge.org/).       
+◎2016/10 Winner on the [MICCAI 2016 M2CAI Challenge on Surgical Workflow Recognition](http://camma.u-strasbg.fr/m2cai2016/index.php/workflow-challenge-results/).       
+◎2016/10 Winner on the [MICCAI 2016 IVD Localization and Segmentation from 3D Multi-modality Images](http://ivdm3seg.weebly.com/).             
+◎2016/10 State-of-the-art record was achieved from our team on Cancer Metastasis Detection in Lymph Node.                 
+◎2016/10 CU_DL with 3D Deep Learning method placed **1st** on [MICCAI 2013 Brain Segmentation](http://mrbrains13.isi.uu.nl/index.php) from MR Images.                    
+◎2016/05 CUMedVision won the **1st** place in [2016 ISBI LUNA (lung nodule detection from CT images) Challenge](http://luna16.grand-challenge.org/results/).               
+◎2016/05 CUMedVision won the **1st** place in [2016 ISBI Skin Lesion Classification Challenge](https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba) out of 20+ teams.                  
+◎2015/10 [MICCAI Gland Segmentation Challenge](http://www2.warwick.ac.uk/fac/sci/dcs/research/combi/research/bic/glascontest/results/). CUMedVision won the **1st** place out of 13 teams. [[NVIDIA news](http://blogs.nvidia.com/blog/2015/12/23/deep-learning-cancer/)]
+◎2015/10 2015 MICCAI Nuclei Segmentation Challenge. Our team (CUMedVision) won the **1st** place.                       
+◎2015/10 2015 MICCAI Endoscopic Vision Challenge. Our team (CUMedVision) won the **1st** place on Polyp Detection from videos in terms of overall F1 score and detection latency.           
+◎2015/10 Our team won the **1st** place in [2015 MICCAI IVD Localization Challenge](http://ijoint.istb.unibe.ch/challenge/index.html).               
+◎2015/10 2012 ISBI Challenge: Segmentation of neuronal structures in Electron Microscopy (EM) stacks. Our team (CUMedVision) placed **1st** on the neuronal structure segmentation out of 38 teams. [[Leader board](http://brainiac2.mit.edu/isbi_challenge/leaders-board)]         
+◎2014/10 MITOS-ATYPIA-14 challenge, 2014. Our team won the **1st** place among the 17 teams on mitosis detection.            
