@@ -19,9 +19,8 @@ organizations:
   - name: The Hong Kong University of Science and Technology
     url: 'https://hkust.edu.hk/'
 
-# Short bio (displayed in user profile at end of posts)
-## Biography 
-bio: Dr. Hao Chen is an Assistant Professor at the Department of Computer Science and Engineering and Department of Chemical and Biological Engineering, Hong Kong University of Science and Technology (HKUST). He leads the <b> Smart Lab </b> focusing on AI in healthcare and serves as Associate Director in Center of Medical Imaging and Analysis, HKUST. He obtained Hong Kong PhD Fellowship in 2013 and received PhD degree from The Chinese University of Hong Kong (CUHK). He was a postdoctoral research fellow in CUHK and a visiting scholar in Utrecht University Medical Center previously. He also has rich industrial research experience including Siemens and co-founded a startup. He holds a dozen of patents in AI and medical image analysis. He received several premium awards including Best Paper Award in MIAR 2016, CUHK Faculty Outstanding Thesis Award in 2017, MICCAI Young Scientist Publication Impact Award in 2019, Forbes China 30 under 30. He also led the team winning 15+ grand challenges, such as RSNA Challenge on Pneumonia Screening, etc.
+# Short bio (displayed in user profile at end of posts) 
+#bio: 
 
 interests:
   - Trustworthy AI
@@ -75,3 +74,7 @@ user_groups:
   - Principal Investigator
 
 ---
+
+## Biography
+
+Dr. Hao Chen is an Assistant Professor at the Department of Computer Science and Engineering and Department of Chemical and Biological Engineering, Hong Kong University of Science and Technology (HKUST). He leads the <b> Smart Lab </b> focusing on AI in healthcare and serves as Associate Director in Center of Medical Imaging and Analysis, HKUST. He obtained Hong Kong PhD Fellowship in 2013 and received PhD degree from The Chinese University of Hong Kong (CUHK). He was a postdoctoral research fellow in CUHK and a visiting scholar in Utrecht University Medical Center previously. He also has rich industrial research experience including Siemens and co-founded a startup. He holds a dozen of patents in AI and medical image analysis. He received several premium awards including Best Paper Award in MIAR 2016, CUHK Faculty Outstanding Thesis Award in 2017, MICCAI Young Scientist Publication Impact Award in 2019, Forbes China 30 under 30. He also led the team winning 15+ grand challenges, such as RSNA Challenge on Pneumonia Screening, etc.
