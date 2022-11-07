@@ -43,9 +43,9 @@ social:
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/in/luyang-luo/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=Z_t5DjwAAAAJ
+   - icon: google-scholar
+     icon_pack: ai
+     link: https://scholar.google.com.hk/citations?user=Z_t5DjwAAAAJ
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/LLYXC
