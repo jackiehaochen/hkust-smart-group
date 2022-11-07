@@ -16,8 +16,8 @@ role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Room 3517 (via lifts 25-26), Department of Computer Science and Engineering (Home), Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
-    url: 'https://hkust.edu.hk/'
+  - name: Assistant Professor, Department of Computer Science and Engineering (Home), Department of Chemical and Biological Engineering
+    #url: 'https://hkust.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts) 
 #bio: 
@@ -68,9 +68,7 @@ user_groups:
   - Principal Investigator
 
 ---
-
-*NEW* Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred (details).
-If you are HKUST students and interested in doing research with me, please send me an email.
+$\color{#FF0000}{*NEW*}$ Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred ([details](https://hkustsmartlab.netlify.app/recruitment/)). If you are HKUST students and interested in doing research with me, please send me an email.
 
 # News
 10/22 Ranked Top 2% of Scientists on [Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3).        
