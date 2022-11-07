@@ -15,9 +15,9 @@ superuser: false
 role: Postdoctoral Fellow
 
 # Organizations/Affiliations
-#organizations:
-#  - name: Stanford University
-#    url: ''
+organizations:
+  - name: The Hong Kong University of Science and Technology
+    url: 'https://hkust.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
