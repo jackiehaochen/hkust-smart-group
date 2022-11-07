@@ -22,5 +22,3 @@ design:
   view: 3
   columns: '1'
 ---
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JuCEMpNzqyVTLQiNouHGkgVkDSUdnRYlmMt7amzdbLw"></script>
