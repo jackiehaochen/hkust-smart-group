@@ -94,8 +94,3 @@
   from = "/author/feng-tao-zhou/"
   to = "https://www.cvzzz.com/"
   force = true
-
- [[redirects]]
-  from = "/author/hao-chen/"
-  to = "https://cse.hkust.edu.hk/~jhc/"
-  force = true
