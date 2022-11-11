@@ -77,7 +77,6 @@ design:
 <small><a href="https://ieeexplore.ieee.org/document/9761652">Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a></small><i><small><small><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. International Symposium on Biomedical Imaging, 2022 </br></small></small></i>
 
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_14">InsMix: Towards Realistic Generative DataAugmentation for Nuclei Instance Segmentation</a></small><i><small><small><br>Lin, Yi; Wang, Zeyu; Cheng, Kwang Ting; Chen, Hao. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022 </br></small></small></i>
-
 <i> 2021 </i><br/>
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a></small><i><small><small><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2021 </br></small></small></i>
 
