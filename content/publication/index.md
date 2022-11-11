@@ -70,25 +70,23 @@ comments: false  # Show comments?
 design:
   columns: '0'
 ---
-<b>Conference</b>
-<br><i> 2022 </i></br>
+<b>Conference</b><br />
+<i> 2022 </i><br/>
 <small><a href="https://ieeexplore.ieee.org/document/9761597">Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a></small><i><small><small><br>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. International Symposium on Biomedical Imaging, 2022 </br></small></small></i>
 
 <small><a href="https://ieeexplore.ieee.org/document/9761652">Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a></small><i><small><small><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. International Symposium on Biomedical Imaging, 2022 </br></small></small></i>
 
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_14">InsMix: Towards Realistic Generative DataAugmentation for Nuclei Instance Segmentation</a></small><i><small><small><br>Lin, Yi; Wang, Zeyu; Cheng, Kwang Ting; Chen, Hao. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2022 </br></small></small></i>
 
-<br><i> 2021 </i></br>
+<i> 2021 </i><br/>
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a></small><i><small><small><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2021 </br></small></small></i>
 
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_50">OXnet: Deep Omni-Supervised Thoracic Disease Detection from Chest X-Rays</a></small><i><small><small><br>Luo, Luyang; Chen, Hao; Zhou, Yanning; Lin, Huangjing; Heng, Pheng-Ann. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2021 </br></small></small></i>
-
-<br><i> 2020 </i></br>
+<i> 2020 </i><br/>
 <small><a href="https://epos.myesr.org/poster/esr/ecr2020/C-05006">Simulation and Clinical Multi-Reader Study using Clinically-Led Deep Learning Automated Radiograph Triaging System</a></small><i><small><small><br>Du, R; Xie, C.; Yu, J. M. L.; Onder, O.F.; Lai, C. T.-M.; Chen, Hao; Vardhanabhuti, V. European Congress of Radiology, 2020 </br></small></small></i>
 
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-030-59710-8_51">Deep semi-supervised knowledge distillation for overlapping cervical cell instance segmentation</a></small><i><small><small><br>Zhou, Yanning; Chen, Hao; Lin, Huangjing; Heng, Pheng-Ann. International Conference on Medical Image Computing and Computer-Assisted Intervention 2020 </br></small></small></i>
-
-<br><i> 2019 </i></br>
+<i> 2019 </i><br/>
 <small><a href="https://ojs.aaai.org/index.php/AAAI/article/view/3874">Synergistic image and feature adaptation: Towards cross-modality domain adaptation for medical image segmentation</a></small><i><small><small><br>Chen, Cheng; Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. Proceedings of the AAAI Conference on Artificial Intelligence, 2019 </br></small></small></i>
 
 <small><a href="https://ieeexplore.ieee.org/document/8759203">Robust learning at noisy labeled medical images: Applied to skin lesion classification</a></small><i><small><small><br>Xue, Cheng; Dou, Qi; Shi, Xueying; Chen, Hao; Heng, Pheng-Ann. International Symposium on Biomedical Imaging, 2019 </br></small></small></i>
@@ -116,8 +114,7 @@ design:
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-030-32226-7_46">PRSNet: Part Relation and Selection Network for Bone Age Assessment</a></small><i><small><small><br>Ji, Yuanfeng; Chen, Hao; Lin, Dan; Wu, Xiaohua; Lin, Di. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2019 </br></small></small></i>
 
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_5">Unifying structure analysis and surrogate-driven function regression for glaucoma OCT image screening</a></small><i><small><small><br>Wang, Xi; Chen, Hao; Luo, Luyang; Ran, An-ran; Chan, Pomen P.; Tham, Clement C.; Cheung, Carol Y.; Heng, Pheng-Ann. International Conference on Medical Image Computing and Computer-Assisted Intervention, 2019 </br></small></small></i>
-
-<br><i> 2018 </i></br>
+<i> 2018 </i><br/>
 <small><a href="https://www.ijcai.org/proceedings/2018/96">Unsupervised cross-modality domain adaptation of convnets for biomedical image segmentations with adversarial loss</a></small><i><small><small><br>Dou, Qi; Ouyang, Cheng; Chen, Cheng; Chen, Hao; Heng, Pheng-Ann. IJCAI International Joint Conference on Artificial Intelligence, 2018 </br></small></small></i>
 
 <small><a href="https://arxiv.org/abs/1808.03887">Semi-supervised Skin Lesion Segmentation via Transformation Consistent Self-ensembling Model</a></small><i><small><small><br>Li, Xiaomeng; Yu, Lequan; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann. BMVC, 2018</br></small></small></i>
@@ -131,8 +128,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108194">SFCN-OPI: Detection and fine-grained classification of nuclei using sibling FCN with objectness prior interaction</a></small><i><small><small><br>Zhou, Yanning; Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann.Proceedings of the AAAI Conference on Artificial Intelligence, v. 32, (1), 2018, p. 2652-2659</br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108190">Semantic-aware generative adversarial nets for unsupervised domain adaptation in chest X-ray segmentation</a></small><i><small><small><br>Chen, Cheng; Dou, Qi; Chen, Hao; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 11046 , September 2018, p. 143-151</br></small></small></i>
-
-<br><i> 2017 </i></br>
+<i> 2017 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108253">Automatic 3D cardiovascular MR segmentation with densely-connected volumetric convnets</a></small><i><small><small><br>Yu, Lequan; Cheng, Jie-Zhi; Dou, Qi; Yang, Xin; Chen, Hao; Qin, Jing; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 10434, September 2017, p. 287-295</br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108251">Automated pulmonary nodule detection via 3D convnets with online sample filtering and hybrid-loss residual learning</a></small><i><small><small><br>Dou, Qi; Chen, Hao; Jin, Yueming; Lin, Huangjing; Qin, Jing; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 10435, September 2017, p. 630-638</br></small></small></i>
@@ -140,8 +136,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108246">Volumetric convnets with mixed residual connections for automated prostate segmentation from 3d MR images</a></small><i><small><small><br>Yu, Lequan; Yang, Xin; Chen, Hao; Qin, Jing; Heng, Pheng-Ann.Proceedings of the AAAI Conference on Artificial Intelligence, v. 31, (1), 2017, p. 66-72</br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108243">AGNet: Attention-guided network for surgical tool presence detection</a></small><i><small><small><br>Hu, Xiaowei; Yu, Lequan; Chen, H.; Qin, Jing; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 10553, September 2017, p. 186-194</br></small></small></i>
-
-<br><i> 2016 </i></br>
+<i> 2016 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108272">Automated mitosis detection with deep regression networks</a></small><i><small><small><br>Chen, Hao; Wang, Xi; Heng, Pheng Ann.Proceedings of International Symposium on Biomedical Imaging, v. 2016, June 2016, p. 1204`-1207</br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108267">DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation</a></small><i><small><small><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Heng, Pheng-Ann.Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, v. 2016, December 2016, p. 2487-2496</br></small></small></i>
@@ -158,7 +153,7 @@ design:
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108287">3D deeply supervised network for automatic liver segmentation from CT volumes</a></small><i><small><small><br>Dou, Qi; Chen, Hao; Jin, Yueming; Yu, Lequan; Qin, Jing; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 9901, October 2016, p. 487-495</br></small></small></i>
 
-<br><i> 2015 </i></br>
+<i> 2015 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108323">Automatic localization and identification of vertebrae in spine CT via a joint learning model with deep neural networks</a></small><i><small><small><br>Chen, Hao; Shen, Chiyao; Qin, Jing; Ni, Dong; Shi, Lin; Cheng, Jack C.Y; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 9349, November 2015, p. 515-522</br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108322">Automatic fetal ultrasound standard plane detection using knowledge transferred recurrent neural networks</a></small><i><small><small><br>Chen, Hao; Dou, Qi; Ni, Dong; Cheng, Jie-Zhi; Qin, Jing; Li, Shengli; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 9349, November 2015, p. 507-514</br></small></small></i>
