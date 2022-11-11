@@ -151,7 +151,6 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108285">Iterative multi-domain regularized deep learning for anatomical structure detection and segmentation from ultrasound images</a></small><i><small><small><br>Chen, Hao; Zheng, Yefeng; Park, Jin-Hyeong; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 9901, October 2016, p. 487-495</br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108287">3D deeply supervised network for automatic liver segmentation from CT volumes</a></small><i><small><small><br>Dou, Qi; Chen, Hao; Jin, Yueming; Yu, Lequan; Qin, Jing; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 9901, October 2016, p. 487-495</br></small></small></i>
-
 <i> 2015 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108323">Automatic localization and identification of vertebrae in spine CT via a joint learning model with deep neural networks</a></small><i><small><small><br>Chen, Hao; Shen, Chiyao; Qin, Jing; Ni, Dong; Shi, Lin; Cheng, Jack C.Y; Heng, Pheng-Ann.Lecture Notes in Computer Science, v. 9349, November 2015, p. 515-522</br></small></small></i>
 
