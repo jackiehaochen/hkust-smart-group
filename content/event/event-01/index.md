@@ -26,7 +26,7 @@ location: >-
 
   Passcode: CSE
 date: 2022-11-15T08:00:00.000Z
-all_day: true
+all_day: false
 slides: null
 url_pdf: ""
 summary: International School on Deep Learning, Sweden
