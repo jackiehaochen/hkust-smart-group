@@ -1,68 +1,57 @@
 ---
-title: Invited Talk 'Towards Trustworthy AI for Medical Imaging and Analysis'
-
-event: SenseTime/CUHK Medicine Joint Seminar
-#event_url: https://example.org
-
-#location: Wowchemy HQ
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
-
-summary: SenseTime/CUHK Medicine Joint Seminar
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#  End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-08-01'
-#date_end: '2022-10-01T15:00:00Z'
-#all_day: false
-
-#show_date: false
-# Schedule page publish date (NOT talk date).
-#publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
 reading_time: false
+abstract: |
+  In this talk, I will overview our progress in the INSILEX Programme. We
+  envision a paradigm shift in medical device innovation where quantitative
+  sciences are exploited to carefully engineer medical device designs,
+  explicitly optimise clinical outcomes, and thoroughly test side effects
+  before being marketed.
+
+  INSILEX is underpinned by Computational Medicine, an emerging discipline
+  devoted to developing quantitative approaches for understanding the
+  mechanisms, diagnoses, and treatment of human disease through the
+  systematic application of mathematics, engineering, and computational
+  science. Dealing with the extraordinary multi-scale complexity and
+  variability intrinsic to human biological systems and health data demands
+  radically new approaches compared to methods for manufactured systems.
+
+  Within this framework, INSILEX extensively uses medical image computing, a
+  mature field challenged by the progress made across all medical imaging
+  technologies and more recent breakthroughs in biological imaging. We
+  advocate for “Precision Imaging”, not as a new discipline but a distinct
+  emphasis in medical imaging, unifying the efforts behind mechanistic and
+  phenomenological model-based imaging.
+
+  This talk summarises and formalises our vision of Precision Imaging for
+  Precision Medicine and highlights connections with past research and our
+  current focus on large-scale computational phenomics and in silico
+  clinical trials.
+location: |-
+  Zoom link:
+  https://hkust.zoom.us/j/928308079?pwd=ejloVFlRcU5GVTd3QjhtOHhqV2VlZz09
+
+  Meeting ID:   928 308 079
+
+  Passcode:     2022
+date: 2022-11-08T08:00:54.827Z
+slides: null
+url_pdf: ""
+summary: SenseTime/CUHK Medicine Joint Seminar
+title: "CSE Distinguished Seminar by Prof. Alejandro F FRANGI: Computational
+  Precision Imaging and Medicine in Regulatory Science"
+date_end: 2022-11-08T09:00:15.820Z
+all_day: false
+event_url: https://hkust.zoom.us/j/928308079?pwd=ejloVFlRcU5GVTd3QjhtOHhqV2VlZz09
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
+event: SenseTime/CUHK Medicine Joint Seminar
+publishDate: 2022-11-13T05:12:29.194Z
+tags: []
+projects: null
+image:
+  filename: poster-distinguished-speaker-prof.-frangi-9-.png
+url_code: ""
 share: false
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-
-#Slides can be added in a few ways:
-
-#- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-#Further event details, including page elements such as image galleries, can be added to the body of this page.
-
 ---
