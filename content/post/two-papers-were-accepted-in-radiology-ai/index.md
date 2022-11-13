@@ -1,6 +1,6 @@
 ---
 title: Two papers were accepted in Radiology AI.
-date: 2022-11-13T03:46:08.917Z
+date: 2022-07-07T03:46:08.917Z
 summary: G﻿ood News! We have two papers accepted in Radiology AI.
 draft: false
 featured: false
