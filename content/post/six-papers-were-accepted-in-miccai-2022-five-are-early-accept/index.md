@@ -1,7 +1,8 @@
 ---
 title: Six papers were accepted in MICCAI 2022 (five are early accept).
-subtitle: G﻿ood News! We have six papers accepted in MICCAI 2022.
+subtitle: ""
 date: 2022-11-13T03:18:17.780Z
+summary: G﻿ood News! We have six papers accepted in MICCAI 2022.
 draft: false
 featured: false
 image:
