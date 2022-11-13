@@ -46,7 +46,7 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-event: SenseTime/CUHK Medicine Joint Seminar
+event: CSE Distinguished Seminar by Prof. Alejandro F FRANGI
 publishDate: 2022-11-13T05:12:29.194Z
 tags: []
 projects: null
