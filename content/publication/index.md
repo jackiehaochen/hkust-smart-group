@@ -70,7 +70,7 @@ comments: false  # Show comments?
 design:
   columns: '0'
 ---
-<b>Conference</b><br />
+<b>Conference</b><br/>
 <i> 2022 </i><br/>
 <small><a href="https://ieeexplore.ieee.org/document/9761597">Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a></small><i><small><small><br>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. International Symposium on Biomedical Imaging, 2022 </br></small></small></i>
 
@@ -165,14 +165,14 @@ design:
 <small><a href="https://link.springer.com/chapter/10.1007/978-3-319-10581-9_16">Fetal Abdominal Standard Plane Localization Through Representation Learning with Knowledge Transfer</a></small><i><small><small><br>Chen, Hao; Ni, Dong; Yang, Xin; Li, Shengli; Heng, Pheng Ann. International Workshop on Machine Learning in Medical Imaging, 2014</br></small></small></i>
 
 
-<b>Journal</b>
-
+<b>Journal</b><br/>
+<i> 2022 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-117589">PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a></small><i><small><small><br>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. IEEE Transactions on Medical Imaging, 2022 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-118448">Three-Dimensional Multi-Task Deep Learning Model to Detect Glaucomatous Optic Neuropathy and Myopic Features From Optical Coherence Tomography Scans: A Retrospective Multi-Centre Study</a></small><i><small><small><br>Ran, An Ran; Wang, Xi; Chan, Poemen P.; Chan, Noel C.; Yip, Wilson; Young, Alvin L.; Wong, Mandy O.M.; Yung, Hon-Wah; Chang, Robert T.; Mannil, Suria S.; Tham, Yih Chung; Cheng, Ching-Yu; Chen, Hao; Li, Fei; Zhang, Xiulan; Heng, Pheng-Ann; Tham, Clement C.; Cheung, Carol Y.. Frontiers in Medicine, 2022 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-115606">An Artificial Intelligence System for the Detection of Bladder Cancer via Cystoscopy: A Multicenter Diagnostic Study</a></small><i><small><small><br>Wu, Shaoxu; Chen, Xiong; Pan, Jiexin; Dong, Wen; Diao, Xiayao; Zhang, Ruiyun; Zhang, Yonghai; Qian, Guang; Chen, Hao; Lin, Haotian; Xu, Shizhong; Chen, Zhiwen; Zhou, Xiaozhou; Mei, Hongbing; Wu, Chenglong; Lv, Qiang; Yuan, Baorui; Chen Zeshi; Liao, Wenjiao; Yang, Xuefan; Chen Hage; Huang, Jian; Lin, Tianxin. Journal of the National Cancer Institute, 2022 </br></small></small></i>
-
+<i> 2021 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108021">Dual-path network with synergistic grouping loss and evidence driven risk stratification for whole slide cervical image analysis</a></small><i><small><small><br>Lin, Huangjing; Chen, Hao; Wang, Xi; Wang, Qiong; Wang, Liansheng; Heng, Pheng-Ann.Medical Image Analysis, 2021 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-107084">Transformation-consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation</a></small><i><small><small><br>Li, Xiaomeng; Yu, Lequan; Chen, Hao; Fu, Chi-Wing; Xing, Lei; Heng, Pheng-Ann.IEEE Transactions on Neural Networks and Learning Systems, 2021 </br></small></small></i>
@@ -186,7 +186,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-115152">Prediction of Treatment Response According to ASAS-EULAR Management Recommendations in 1 Year for Hip Involvement in Axial Spondyloarthritis Based on MRI and Clinical Indicators</a></small><i><small><small><br>Xie, Zhuoyao; Lu, Zixiao; Chen, Hao; Ye, Qiang; Guo, Chang; Zheng, Kai; Li, Xin; Xie, Qiuxia; Hu, Shaoyong; Zhou, Quan; Zhao, Yinghua. Frontiers in Endocrinology, 2021 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108035">Potentials of AI in medical image analysis in Gastroenterology and Hepatology</a></small><i><small><small><br>Chen, Hao; Sung, Joseph J.Y.. Journal of Gastroenterology and Hepatology, 2021 </br></small></small></i>
-
+<i> 2020 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108047">Weakly Supervised Deep Learning for Whole Slide Lung Cancer Image Analysis</a></small><i><small><small><br>Wang, Xi; Chen, Hao; Gan, Caixia; Lin, Huangjing; Dou, Qi; Tsougenis, Efstratios; Huang, Qitao; Cai, Muyan; Heng, Pheng-Ann. IEEE Transactions on Cybernetics, 2020 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108042">Rectifying Supporting Regions with Mixed and Active Supervision for Rib Fracture Recognition</a></small><i><small><small><br>Huang, Yi-Jie; Liu, Weiping; Wang, Xiuying; Fang, Qu; Wang, Renzhen; Wang, Yi; Chen, Huai; Chen, Hao; Meng, Deyu; Wang, Lisheng. IEEE Transactions on Medical Imaging, 2020 </br></small></small></i>
@@ -208,7 +208,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108334">Towards a new generation of artificial intelligence in China</a></small><i><small><small><br>Wu, Fei; Lu, Cewu; Zhu, Mingjie; Chen, Hao; Zhu, Jun; Yu, Kai; Li, Lei; Li, Ming; Chen, Qianfeng; Li, Xi; Cao, Xudong; Wang, Zhongyuan; Zha, Zhengjun; Zhuang, Yueting; Pan, Yunhe. Nature Machine Intelligence, 2020 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-103613">A Multi-Organ Nucleus Segmentation Challenge</a></small><i><small><small><br>Zhou Xiaoyang; Chen, Hao. IEEE Transactions on Medical Imaging, 2020 </br></small></small></i>
-
+<i> 2019 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108170">Deep learning for automated contouring of primary tumor volumes by MRI for nasopharyngeal carcinoma</a></small><i><small><small><br>Lin, Li; Dou, Qi; Jin, Yue-Ming; Zhou, Guan-Qun; Tang, Yi-Qiang; Chen, Wei-Lin; Su, Bao-An; Liu, Feng; Tao, Chang-Juan; Jiang, Ning; Li, Jun-Yun; Tang, Ling-Long; Xie, Chuan-Miao; Huang, Shao-Min; Ma, Jun; Heng, Pheng-Ann; Wee, Joseph T.S.; Chua, Melvin L.K.; Chen, Hao; Sun, Ying. Radiology, 2019 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108087">Weakly supervised 3D deep learning for breast cancer classification and localization of the lesions in MR images</a></small><i><small><small><br>Zhou, Juan; Luo, Lu-Yang; Dou, Qi; Chen, Hao; Chen, Cheng; Li, Gong-Jie; Jiang, Ze-Fei; Heng, Pheng-Ann. Journal of Magnetic Resonance Imaging, 2019 </br></small></small></i>
@@ -228,7 +228,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108101">SINet: A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection</a></small><i><small><small><br>Hu, Xiaowei; Xu, Xuemiao; Xiao, Yongjie; Chen, Hao; He, Shengfeng; Qin, Jing; Heng, Pheng-Ann.IEEE Transactions on Intelligent Transportation Systems, 2019 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108085">RMDL: Recalibrated multi-instance deep learning for whole slide gastric image classification</a></small><i><small><small><br>Wang, Shujun; Zhu, Yaxi; Yu, Lequan; Chen, Hao; Lin, Huangjing; Wan, Xiangbo; Fan, Xinjuan; Heng, Pheng-Ann.Medical Image Analysis, 2019 </br></small></small></i>
-
+<i> 2018 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108184">SV-RCNet: Workflow recognition from surgical videos using recurrent convolutional network</a></small><i><small><small><br>Jin, Yueming; Dou, Qi; Chen, Hao; Yu, Lequan; Qin, Jing; Fu, Chi-Wing; Heng, Pheng-Ann.IEEE Transactions on Medical Imaging, 2018 </br></small></small></i>
 
 <small><a href="https://www.sciencedirect.com/science/article/pii/S0360301618324714?via%3Dihub">Development and Validation of A Deep Learning Algorithm for Automated Delineation of Primary Tumor for Nasopharyngeal Carcinoma from Multimodal Magnetic Resonance Images</a></small><i><small><small><br>Sun, Y.; Dou, Q.; Chen, Hao; Jin, Y.M.; Zhou, G.Q.; Tang, Y.Q.; Chen, W.L.; Su, B.A.; Liu, F.; Tao, C.J.; Jiang, N.; Li, J.Y.; Tang, L.; Xie, C.; Huang, S.M.; Heng, P.A..International Journal of Radiation Oncology Biology Physics, 2018 </br></small></small></i>
@@ -238,7 +238,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-107078">3D multi-scale FCN with random modality voxel dropout learning for Intervertebral Disc Localization and Segmentation from Multi-modality MR Images</a></small><i><small><small><br>Li, Xiaomeng; Dou, Qi; Chen, Hao; Fu, Chi-Wing; Qi, Xiaojuan; Belavý, Daniel L.; Armbrecht, Gabriele; Felsenberg, Dieter; Zheng, Guoyan; Heng, Pheng-Ann. Medical Image Analysis, 2018 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-107071">H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes</a></small><i><small><small><br>Li, Xiaomeng; Chen, Hao; Qi, Xiaojuan; Dou, Qi; Fu, Chi-Wing; Heng, Pheng-Ann.IEEE Transactions on Medical Imaging, 2018 </br></small></small></i>
-
+<i> 2017 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108256">Gland segmentation in colon histology images: The glas challenge contest</a></small><i><small><small><br>Sirinukunwattana, Korsuk; Pluim, Josien P.W.; Chen, Hao; Qi, Xiaojuan; Heng, Pheng-Ann; Guo, Yun Bo; Matuszewski, Bogdan J.; Bruni, Elia; Sanchez, Urko; Böhm, Anton; Ronneberger, Olaf; Cheikh, Bassem Ben; Racoceanu, Daniel; Kainz, Philipp; Pfeiffer, Michael; Urschler, Martin; Snead, David R.J.; Rajpoot, Nasir M.. Medical Image Analysis, 2017 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108222">Comparative Validation of Polyp Detection Methods in Video Colonoscopy: Results from the MICCAI 2015 Endoscopic Vision Challenge</a></small><i><small><small><br>Bernal, Jorge; Tajkbaksh, Nima; Sanchez, Francisco Javier; Matuszewski, Bogdan J.; Chen, Hao; Yu, Lequan; Angermann, Quentin; Romain, Olivier; Rustad, Bjørn; Balasingham, Ilangko; Pogorelov, Konstantin; Choi, Sungbin; Debard, Quentin; Maier-Hein, Lena; Speidel, Stefanie; Stoyanov, Danail; Brandao, Patrick; Cordova, Henry; Sanchez-Montes, Cristina; Histace, Aymeric. IEEE Transactions on Medical Imaging, 2017 </br></small></small></i>
@@ -262,7 +262,7 @@ design:
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108248">Integrating Online and Offline Three-Dimensional Deep Learning for Automated Polyp Detection in Colonoscopy Videos</a></small><i><small><small><br>Yu, Lequan; Chen, Hao; Dou, Qi; Qin, Jing; Heng, Pheng Ann. IEEE Journal of Biomedical and Health Informatics, 2017 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108411">3D deeply supervised network for automated segmentation of volumetric medical images</a></small><i><small><small><br>Dou, Qi; Yu, Lequan; Chen, Hao; Jin, Yueming; Yang, Xin; Qin, Jing; Heng, Pheng-Ann.Medical Image Analysis, 2017 </br></small></small></i>
-
+<i> 2016 </i><br/>
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108274">Automatic Detection of Cerebral Microbleeds from MR Images via 3D Convolutional Neural Networks</a></small><i><small><small><br>Dou, Q.; Chen, Hao; Yu, Lequan; Zhao, Lei; Qin, Jing; Wang, Defeng; Mok, Vincent C.T.; Shi, Lin; Heng, Pheng-Ann. IEEE Transactions on Medical Imaging, 2016 </br></small></small></i>
 
 <small><a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108313">Standard Plane Localization in Fetal Ultrasound via Domain Transferred Deep Neural Networks</a></small><i><small><small><br>Chen, Hao; Ni, Dong; Qin, Jing; Li, Shengli; Yang, Xin; Wang, Tianfu; Heng, Pheng Ann.IEEE Journal of Biomedical and Health Informatics, 2015 </br></small></small></i>
