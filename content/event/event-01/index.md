@@ -24,13 +24,13 @@ location: >-
   Meeting ID:     955 3204 9042
 
   Passcode:       CSE
-date: 2022-10-01
+date: 2022-11-15T08:00:00.000Z
 all_day: true
 slides: null
 url_pdf: ""
 summary: International School on Deep Learning, Sweden
 title: Invited Talk 'Label-Efficient Deep Learning for Medical Image Analysis'
-date_end: 2022-11-15T04:37:55.135Z
+date_end: 2022-11-14T21:00:55.135Z
 event_url: https://hkust.zoom.us/j/95532049042?pwd=UjkvVG9oZEhqZ1A5M2NJbWplelRJQT09
 featured: false
 authors: []
