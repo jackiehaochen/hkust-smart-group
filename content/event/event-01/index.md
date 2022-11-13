@@ -21,9 +21,10 @@ location: >-
   https://hkust.zoom.us/j/95532049042?pwd=UjkvVG9oZEhqZ1A5M2NJbWplelRJQT09
 
 
-  Meeting ID:     955 3204 9042
+  Meeting ID: 955 3204 9042
 
-  Passcode:       CSE
+
+  Passcode: CSE
 date: 2022-11-15T08:00:00.000Z
 all_day: true
 slides: null
