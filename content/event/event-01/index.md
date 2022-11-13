@@ -11,20 +11,7 @@ abstract: |-
   developing label-efficient learning methods by leveraging an abundance of
   weakly-labeled and/or unlabeled datasets for medical image analysis, with
   application to disease diagnosis, lesion localization and segmentation.
-location: >-
-  Venue:  Lecture Theater F (Leung Yat Sing Lecture Theater)(near lift 25/26,
-  HKUST)
-
-
-  Zoom link:
-
-  https://hkust.zoom.us/j/95532049042?pwd=UjkvVG9oZEhqZ1A5M2NJbWplelRJQT09
-
-
-  Meeting ID: 955 3204 9042
-
-
-  Passcode: CSE
+location: Online
 date: 2022-11-15T08:00:00.000Z
 all_day: false
 slides: null
@@ -32,12 +19,12 @@ url_pdf: ""
 summary: International School on Deep Learning, Sweden
 title: Invited Talk 'Label-Efficient Deep Learning for Medical Image Analysis'
 date_end: 2022-11-14T21:00:55.135Z
-event_url: https://hkust.zoom.us/j/95532049042?pwd=UjkvVG9oZEhqZ1A5M2NJbWplelRJQT09
+event_url: https://example.org
 featured: false
 authors: []
 url_video: ""
 url_slides: ""
-event: Label-efficient Deep Learning for Medical Image Analysis
+event: International School on Deep Learning, Sweden
 publishDate: 2022-11-13T04:35:26.025Z
 tags: []
 projects: null
