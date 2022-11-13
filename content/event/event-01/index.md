@@ -1,68 +1,45 @@
 ---
-title: Invited Talk 'Label-Efficient Deep Learning for Medical Image Analysis'
-
-event: International School on Deep Learning, Sweden
-#event_url: https://example.org
-
-#location: Wowchemy HQ
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
-
-summary: International School on Deep Learning, Sweden
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#  End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-01'
-#date_end: '2022-10-01T15:00:00Z'
-#all_day: false
-
-#show_date: false
-# Schedule page publish date (NOT talk date).
-#publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
 reading_time: false
+abstract: |-
+  Artificial intelligence, especially deep learning with large-scale
+  annotated datasets, has dramatically advanced the recognition performance
+  in many domains including speech recognition, visual recognition and
+  natural language processing. Despite its breakthroughs in above domains,
+  its application to medical image analysis remains yet to be further
+  explored, where large-scale fully and high-quality annotated datasets are
+  not easily accessible. In this talk, I will share our recent progress on
+  developing label-efficient learning methods by leveraging an abundance of
+  weakly-labeled and/or unlabeled datasets for medical image analysis, with
+  application to disease diagnosis, lesion localization and segmentation.
+location: >-
+  Venue:  Lecture Theater F (Leung Yat Sing Lecture Theater)(near lift 25/26,
+  HKUST)
+
+
+  Zoom link:
+
+  https://hkust.zoom.us/j/95532049042?pwd=UjkvVG9oZEhqZ1A5M2NJbWplelRJQT09
+
+
+  Meeting ID:     955 3204 9042
+
+  Passcode:       CSE
+date: 2022-10-01
+all_day: true
+slides: null
+url_pdf: ""
+summary: International School on Deep Learning, Sweden
+title: Invited Talk 'Label-Efficient Deep Learning for Medical Image Analysis'
+date_end: 2022-11-15T04:37:55.135Z
+event_url: https://hkust.zoom.us/j/95532049042?pwd=UjkvVG9oZEhqZ1A5M2NJbWplelRJQT09
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
+event: International School on Deep Learning, Sweden
+publishDate: 2022-11-13T04:35:26.025Z
+tags: []
+projects: null
+url_code: ""
 share: false
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-
-#Slides can be added in a few ways:
-
-#- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-#Further event details, including page elements such as image galleries, can be added to the body of this page.
-
 ---
