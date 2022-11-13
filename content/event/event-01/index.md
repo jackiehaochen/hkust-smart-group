@@ -36,7 +36,7 @@ featured: false
 authors: []
 url_video: ""
 url_slides: ""
-event: International School on Deep Learning, Sweden
+event: Label-efficient Deep Learning for Medical Image Analysis
 publishDate: 2022-11-13T04:35:26.025Z
 tags: []
 projects: null
