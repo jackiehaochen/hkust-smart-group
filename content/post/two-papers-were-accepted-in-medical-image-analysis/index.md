@@ -2,12 +2,10 @@
 title: Two papers were accepted in Medical Image Analysis.
 subtitle: ""
 date: 2022-11-13T03:34:19.810Z
-summary: >-
+summary: |-
   <!--StartFragment-->
 
-
-  G﻿ood News! We have two papers accepted in Medical Image Analysis, shown as follow:
-
+  G﻿ood News! We have two papers accepted in Medical Image Analysis.
 
   <!--EndFragment-->
 draft: false
