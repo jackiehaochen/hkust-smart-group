@@ -1,30 +1,21 @@
 ---
 reading_time: false
-abstract: |-
-  Artificial intelligence, especially deep learning with large-scale
-  annotated datasets, has dramatically advanced the recognition performance
-  in many domains including speech recognition, visual recognition and
-  natural language processing. Despite its breakthroughs in above domains,
-  its application to medical image analysis remains yet to be further
-  explored, where large-scale fully and high-quality annotated datasets are
-  not easily accessible. In this talk, I will share our recent progress on
-  developing label-efficient learning methods by leveraging an abundance of
-  weakly-labeled and/or unlabeled datasets for medical image analysis, with
-  application to disease diagnosis, lesion localization and segmentation.
+abstract: Towards Trustworthy AI for Medical Imaging and Analysis
 location: Online
-date: 2022-11-15T08:00:00.000Z
-all_day: false
+date: 2022-11-05T08:00:00.000Z
+all_day: true
 slides: null
 url_pdf: ""
 summary: International School on Deep Learning, Sweden
-title: Invited Talk 'Label-Efficient Deep Learning for Medical Image Analysis'
-date_end: 2022-11-14T21:00:55.135Z
-event_url: https://example.org
+title: "AICI Forum by Prof. Hao CHEN: Towards Trustworthy AI for Medical Imaging
+  and Analysis"
+date_end: 2022-11-04T21:00:55.135Z
+event_url: https://www.aiciforum.com/speaker/hao-chen/
 featured: false
 authors: []
 url_video: ""
 url_slides: ""
-event: International School on Deep Learning, Sweden
+event: AICI Forum by Prof. Hao CHEN
 publishDate: 2022-11-13T04:35:26.025Z
 tags: []
 projects: null
